@@ -1,5 +1,5 @@
 
-## 👨‍💻 About the Developer
+## 👨‍💻 About Me
 
 **Name:** Sakthivel S.M.  
 **Degree:** B.Tech – Information Technology  
