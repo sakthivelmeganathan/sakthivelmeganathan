@@ -20,13 +20,8 @@
 - Full-Stack Development  
 - Design Patterns & Software Architecture  
 
-**Founder of STEEP Company**  
-- Focus Areas: Trading + IT  
-- IT Team: Sharvesh, Sakthivel, Sreejith, Sivadharana, Shridharshini  
-- Trading Team: Sharvesh, Manisanker  
-
----
-
+**Co-Founder of CRACOE Company**  
+- Focus Areas: IT  
 ## 📌 Project Overview
 
 This system provides a platform where:
