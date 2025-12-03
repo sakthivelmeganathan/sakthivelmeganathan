@@ -1,8 +1,3 @@
-# 🚀 Customer Feedback Management System
-
-A stylish and efficient **Customer Feedback Management System** developed by **Sakthivel S.M.**, focused on collecting, storing, analyzing, and managing customer feedback using modern web technologies.
-
----
 
 ## 👨‍💻 About the Developer
 
